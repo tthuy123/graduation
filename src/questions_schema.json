@@ -1,0 +1,23 @@
+{
+    "analysis": [
+        "Sử dụng dữ liệu cung cấp một cách toàn diện?",
+        "Phân tích dựa trên kết quả từ bộ giải thích?",
+        "Sử dụng đúng nhãn dự báo của mô hình (Pass/Fail)?",
+        "Xem xét đúng bối cảnh cấu trúc khóa học?",
+        "Lựa chọn nguyên nhân dựa trên tính bất thường (Abnormality)?",
+        "Lựa chọn nguyên nhân dựa trên tính thời điểm (Temporality)?",
+        "Lựa chọn nguyên nhân dựa trên tính kiểm soát (Controllability)?",
+        "Tuân thủ đầy đủ bộ tiêu chí đánh giá tích hợp?"
+    ],
+    "feedback": [
+        "Mô tả đúng kết quả học tập của sinh viên?",
+        "Xác định rõ mục tiêu học tập (Learning Goal)?",
+        "Mô tả các phát hiện từ bộ giải thích (SHAP)?",
+        "Gợi ý các hành động cụ thể sinh viên có thể thực hiện?",
+        "Sử dụng đúng giọng văn sư phạm (Teacher-to-Student)?",
+        "Văn bản súc tích (đọc dưới 5 phút)?",
+        "Mô tả rõ các nguyên nhân bất thường?",
+        "Đề cập đến các sự kiện gần đây (Tính thời điểm)?",
+        "Đề cập đến các yếu tố sinh viên có thể kiểm soát?"
+    ]
+}

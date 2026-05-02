@@ -1,0 +1,902 @@
+[
+    {
+        "student_id": 538069,
+        "analysis_eval": {
+            "scores": [
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES"
+            ],
+            "accuracy": 1.0
+        },
+        "feedback_eval": {
+            "scores": [
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "NO",
+                "YES",
+                "YES"
+            ],
+            "accuracy": 0.8888888888888888
+        }
+    },
+    {
+        "student_id": 2691780,
+        "analysis_eval": {
+            "scores": [
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES"
+            ],
+            "accuracy": 1.0
+        },
+        "feedback_eval": {
+            "scores": [
+                "NO",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "NO",
+                "NO",
+                "YES"
+            ],
+            "accuracy": 0.6666666666666666
+        }
+    },
+    {
+        "student_id": 507983,
+        "analysis_eval": {
+            "scores": [
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES"
+            ],
+            "accuracy": 1.0
+        },
+        "feedback_eval": {
+            "scores": [
+                "NO",
+                "YES",
+                "NO",
+                "YES",
+                "YES",
+                "YES",
+                "NO",
+                "NO",
+                "YES"
+            ],
+            "accuracy": 0.5555555555555556
+        }
+    },
+    {
+        "student_id": 54739,
+        "analysis_eval": {
+            "scores": [
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES"
+            ],
+            "accuracy": 1.0
+        },
+        "feedback_eval": {
+            "scores": [
+                "NO",
+                "YES",
+                "NO",
+                "YES",
+                "YES",
+                "YES",
+                "NO",
+                "NO",
+                "YES"
+            ],
+            "accuracy": 0.5555555555555556
+        }
+    },
+    {
+        "student_id": 429832,
+        "analysis_eval": {
+            "scores": [
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES"
+            ],
+            "accuracy": 1.0
+        },
+        "feedback_eval": {
+            "scores": [
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES"
+            ],
+            "accuracy": 1.0
+        }
+    },
+    {
+        "student_id": 523331,
+        "analysis_eval": {
+            "scores": [
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES"
+            ],
+            "accuracy": 1.0
+        },
+        "feedback_eval": {
+            "scores": [
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "NO",
+                "YES",
+                "YES"
+            ],
+            "accuracy": 0.8888888888888888
+        }
+    },
+    {
+        "student_id": 680612,
+        "analysis_eval": {
+            "scores": [
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES"
+            ],
+            "accuracy": 1.0
+        },
+        "feedback_eval": {
+            "scores": [
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "NO",
+                "NO",
+                "YES"
+            ],
+            "accuracy": 0.7777777777777778
+        }
+    },
+    {
+        "student_id": 473265,
+        "analysis_eval": {
+            "scores": [
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES"
+            ],
+            "accuracy": 1.0
+        },
+        "feedback_eval": {
+            "scores": [
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "NO",
+                "YES",
+                "YES"
+            ],
+            "accuracy": 0.8888888888888888
+        }
+    },
+    {
+        "student_id": 695251,
+        "analysis_eval": {
+            "scores": [
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES"
+            ],
+            "accuracy": 1.0
+        },
+        "feedback_eval": {
+            "scores": [
+                "NO",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "NO",
+                "YES",
+                "YES"
+            ],
+            "accuracy": 0.7777777777777778
+        }
+    },
+    {
+        "student_id": 599644,
+        "analysis_eval": {
+            "scores": [
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES"
+            ],
+            "accuracy": 1.0
+        },
+        "feedback_eval": {
+            "scores": [
+                "NO",
+                "YES",
+                "NO",
+                "YES",
+                "YES",
+                "YES",
+                "NO",
+                "YES",
+                "YES"
+            ],
+            "accuracy": 0.6666666666666666
+        }
+    },
+    {
+        "student_id": 594329,
+        "analysis_eval": {
+            "scores": [
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES"
+            ],
+            "accuracy": 1.0
+        },
+        "feedback_eval": {
+            "scores": [
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "NO",
+                "YES",
+                "YES"
+            ],
+            "accuracy": 0.8888888888888888
+        }
+    },
+    {
+        "student_id": 2675393,
+        "analysis_eval": {
+            "scores": [
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES"
+            ],
+            "accuracy": 1.0
+        },
+        "feedback_eval": {
+            "scores": [
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "NO",
+                "YES",
+                "YES"
+            ],
+            "accuracy": 0.8888888888888888
+        }
+    },
+    {
+        "student_id": 2585270,
+        "analysis_eval": {
+            "scores": [
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES"
+            ],
+            "accuracy": 1.0
+        },
+        "feedback_eval": {
+            "scores": [
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "NO",
+                "NO",
+                "YES"
+            ],
+            "accuracy": 0.7777777777777778
+        }
+    },
+    {
+        "student_id": 245316,
+        "analysis_eval": {
+            "scores": [
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES"
+            ],
+            "accuracy": 1.0
+        },
+        "feedback_eval": {
+            "scores": [
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "NO",
+                "YES",
+                "YES"
+            ],
+            "accuracy": 0.8888888888888888
+        }
+    },
+    {
+        "student_id": 532695,
+        "analysis_eval": {
+            "scores": [
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES"
+            ],
+            "accuracy": 1.0
+        },
+        "feedback_eval": {
+            "scores": [
+                "NO",
+                "YES",
+                "NO",
+                "YES",
+                "YES",
+                "YES",
+                "NO",
+                "NO",
+                "YES"
+            ],
+            "accuracy": 0.5555555555555556
+        }
+    },
+    {
+        "student_id": 633281,
+        "analysis_eval": {
+            "scores": [
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "NO",
+                "NO"
+            ],
+            "accuracy": 0.75
+        },
+        "feedback_eval": {
+            "scores": [
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "NO",
+                "NO",
+                "YES"
+            ],
+            "accuracy": 0.7777777777777778
+        }
+    },
+    {
+        "student_id": 572434,
+        "analysis_eval": {
+            "scores": [
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "NO",
+                "NO",
+                "NO",
+                "NO"
+            ],
+            "accuracy": 0.5
+        },
+        "feedback_eval": {
+            "scores": [
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "NO",
+                "NO",
+                "YES"
+            ],
+            "accuracy": 0.7777777777777778
+        }
+    },
+    {
+        "student_id": 191797,
+        "analysis_eval": {
+            "scores": [
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "NO",
+                "NO",
+                "NO",
+                "NO"
+            ],
+            "accuracy": 0.5
+        },
+        "feedback_eval": {
+            "scores": [
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "NO",
+                "NO",
+                "YES"
+            ],
+            "accuracy": 0.7777777777777778
+        }
+    },
+    {
+        "student_id": 593338,
+        "analysis_eval": {
+            "scores": [
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES"
+            ],
+            "accuracy": 1.0
+        },
+        "feedback_eval": {
+            "scores": [
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "NO",
+                "NO",
+                "YES"
+            ],
+            "accuracy": 0.7777777777777778
+        }
+    },
+    {
+        "student_id": 529567,
+        "analysis_eval": {
+            "scores": [
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "NO",
+                "NO",
+                "NO",
+                "NO"
+            ],
+            "accuracy": 0.5
+        },
+        "feedback_eval": {
+            "scores": [
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "NO",
+                "YES",
+                "YES"
+            ],
+            "accuracy": 0.8888888888888888
+        }
+    },
+    {
+        "student_id": 642201,
+        "analysis_eval": {
+            "scores": [
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES"
+            ],
+            "accuracy": 1.0
+        },
+        "feedback_eval": {
+            "scores": [
+                "NO",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "NO",
+                "YES",
+                "YES"
+            ],
+            "accuracy": 0.7777777777777778
+        }
+    },
+    {
+        "student_id": 466203,
+        "analysis_eval": {
+            "scores": [
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES"
+            ],
+            "accuracy": 1.0
+        },
+        "feedback_eval": {
+            "scores": [
+                "NO",
+                "YES",
+                "NO",
+                "YES",
+                "YES",
+                "YES",
+                "NO",
+                "NO",
+                "YES"
+            ],
+            "accuracy": 0.5555555555555556
+        }
+    },
+    {
+        "student_id": 110789,
+        "analysis_eval": {
+            "scores": [
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES"
+            ],
+            "accuracy": 1.0
+        },
+        "feedback_eval": {
+            "scores": [
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "NO",
+                "YES",
+                "YES"
+            ],
+            "accuracy": 0.8888888888888888
+        }
+    },
+    {
+        "student_id": 577867,
+        "analysis_eval": {
+            "scores": [
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES"
+            ],
+            "accuracy": 1.0
+        },
+        "feedback_eval": {
+            "scores": [
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "NO",
+                "YES",
+                "YES"
+            ],
+            "accuracy": 0.8888888888888888
+        }
+    },
+    {
+        "student_id": 86047,
+        "analysis_eval": {
+            "scores": [
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES"
+            ],
+            "accuracy": 1.0
+        },
+        "feedback_eval": {
+            "scores": [
+                "NO",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "NO",
+                "YES",
+                "YES"
+            ],
+            "accuracy": 0.7777777777777778
+        }
+    },
+    {
+        "student_id": 694284,
+        "analysis_eval": {
+            "scores": [
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "NO",
+                "NO",
+                "NO",
+                "NO"
+            ],
+            "accuracy": 0.5
+        },
+        "feedback_eval": {
+            "scores": [
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "NO",
+                "NO",
+                "YES"
+            ],
+            "accuracy": 0.7777777777777778
+        }
+    },
+    {
+        "student_id": 596041,
+        "analysis_eval": {
+            "scores": [
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "NO",
+                "NO",
+                "NO",
+                "NO"
+            ],
+            "accuracy": 0.5
+        },
+        "feedback_eval": {
+            "scores": [
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "NO",
+                "NO",
+                "YES"
+            ],
+            "accuracy": 0.7777777777777778
+        }
+    },
+    {
+        "student_id": 1042726,
+        "analysis_eval": {
+            "scores": [
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "NO",
+                "NO",
+                "NO",
+                "NO"
+            ],
+            "accuracy": 0.5
+        },
+        "feedback_eval": {
+            "scores": [
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "NO",
+                "NO",
+                "YES"
+            ],
+            "accuracy": 0.7777777777777778
+        }
+    },
+    {
+        "student_id": 560404,
+        "analysis_eval": {
+            "scores": [
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES"
+            ],
+            "accuracy": 1.0
+        },
+        "feedback_eval": {
+            "scores": [
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "NO",
+                "NO",
+                "YES"
+            ],
+            "accuracy": 0.7777777777777778
+        }
+    },
+    {
+        "student_id": 680212,
+        "analysis_eval": {
+            "scores": [
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES"
+            ],
+            "accuracy": 1.0
+        },
+        "feedback_eval": {
+            "scores": [
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "YES",
+                "NO",
+                "YES"
+            ],
+            "accuracy": 0.8888888888888888
+        }
+    }
+]
